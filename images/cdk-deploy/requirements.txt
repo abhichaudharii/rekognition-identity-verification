@@ -4,3 +4,4 @@ setuptools
 aws-cdk-lib 
 constructs
 aws_cdk.aws_amplify_alpha
+urllib3==1.26.15
